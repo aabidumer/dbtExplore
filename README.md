@@ -1,8 +1,9 @@
-Welcome to your new dbt project!
+Welcome to project where I will be demonstrating DBT with Snowflake!
 
 ### Using the starter project
 
-Try running the following commands:
+Try running the following commands after cloning the project:
+(Note:- Python and DBT should be installed on your machine to run the below commands)
 - dbt run
 - dbt test
 
