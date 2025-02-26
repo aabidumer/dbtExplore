@@ -28,4 +28,4 @@ models:
         - not_null
 
   - name: cumulative_orders_by_date
-  - name: dates
+
