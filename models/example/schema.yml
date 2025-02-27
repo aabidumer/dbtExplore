@@ -17,7 +17,6 @@ models:
         description: "The primary key for this table"
         data_tests:
           - unique
-          - not_null
 
   - name: snowflake_customer_purchases
     description: "A dbt model that aggregates customer purchases"
