@@ -27,6 +27,7 @@ models:
         - not_null
 
   - name: cumulative_orders_by_date
+  - name: playing_with_test
 
 sources:
   - name: sample
